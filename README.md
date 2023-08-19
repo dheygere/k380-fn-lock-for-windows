@@ -7,6 +7,10 @@ Having the F1-F12 without pressing the Fn key is nice for developers.
 
 I wanted a simple way to do the same as the Logitech Options/Options+ softwares WITHOUT their continuously running processes.
 
+## Download
+Precompiled binaries available here :
+https://github.com/dheygere/k380-fn-lock-for-windows/releases/tag/v1.0.0
+
 ## How to use
 Running `setFnKeys.exe` will lock Fn key till next reboot.  
 Revert with `setMediaKeys.exe` to unlock and restore media keys.
